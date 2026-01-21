@@ -1,0 +1,5 @@
+{
+  "name": "AphidSim: Invertebrates in a Changing World",
+  "description": "A high-fidelity ecological simulation of Myzus persicae populations. Students manage abiotic conditions, host plant health, and monitor aphid development traits over a simulated 3-week period to study climate change impacts.",
+  "requestFramePermissions": []
+}
